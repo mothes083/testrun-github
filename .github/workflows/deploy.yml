@@ -1,7 +1,3 @@
-deploy.yml
- 
-Paste:
- 
 name: Deploy to S3
  
 on:
